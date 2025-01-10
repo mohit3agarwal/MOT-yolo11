@@ -76,3 +76,6 @@ data.yaml
 # Ignore yolo model weights
 yolo11l.pt
 yolo11n.pt
+
+# Test videos
+testvideos/
