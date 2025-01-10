@@ -79,3 +79,6 @@ yolo11n.pt
 
 # Test videos
 testvideos/
+
+# Ignore outputs of tracking
+runs/track/
