@@ -51,11 +51,9 @@ This project focuses on detecting and tracking 'social spiders dataset' using ad
 Some of the results of the 'social spiders' dataset are as follows:
 
 ### Dataset example:
-![Dataset Video 1](media/data/test1.mp4)
-![Dataset Video 1](media/data/test2.mp4)
+![Dataset Video 1](media/data/data1.gif)
+![Dataset Video 2](media/data/data2.gif)
    
 ### Final output demo:
-
-<video src="media/results/botsort/test2.mp4" controls width="600"></video>
-
-<video src="media/results/bytetrack/test1.mp4" controls width="600"></video>
+![ByteTrack Output 1](media/results/byte1.gif)
+![Bot-SORT Output 2](media/results/bot2.gif)
