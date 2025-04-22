@@ -82,3 +82,9 @@ testvideos/
 
 # Ignore outputs of tracking
 runs/track/
+
+# Ignore env
+.env
+
+# Ignore metrics code
+metrics.ipynb
