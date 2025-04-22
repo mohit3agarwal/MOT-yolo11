@@ -1,6 +1,6 @@
 # MOT-yolo11
 
-A Multi-Object Tracking (MOT) project utilizing YOLO11 for object detection and algorithms like ByteTrack, BoT-SORT, and DeepSORT for tracking.
+A Multi-Object Tracking (MOT) project utilizing YOLO11 for object detection and algorithms like ByteTrack and BoT-SORT for tracking.
 
 ## Table of Contents
 
