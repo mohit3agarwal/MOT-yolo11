@@ -9,12 +9,18 @@ A Multi-Object Tracking (MOT) project utilizing YOLO11 for object detection and 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
-This project focuses on detecting and tracking 'social spiders dataset' using advanced object detection and tracking algorithms.
+The aim of this project is to create a robust and efficient pipeline to track small spider species, particularly social spiders, in realistic environments. This is a challenging task due to the spiders' tiny size, erratic movements, and the heterogeneous and cluttered backgrounds in which they are typically found.
+
+To the best of our knowledge, no existing research or model has successfully achieved consistent multi-object tracking of such small arthropods in real-world settings. Most existing object tracking frameworks are tuned for larger and more distinguishable subjects under controlled environments.
+
+This project fills that gap by integrating:
+- YOLO11 for precise detection,
+- BoT-SORT and ByteTrack for advanced tracking,
+
+Ultimately, the goal is to provide a foundational pipeline for further research and applications in ethology, ecology, and automated behavioral analysis of social spiders.
 
 ## Methodology
 
