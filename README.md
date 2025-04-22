@@ -35,7 +35,6 @@ This project focuses on detecting and tracking 'social spiders dataset' using ad
    ```bash
    pip install -r requirements.txt
 
-
 ## Usage
 
 1. For Detection:
@@ -48,13 +47,15 @@ This project focuses on detecting and tracking 'social spiders dataset' using ad
    ```bash
    python tracking.ipynb
 
-
 ## Results
 Some of the results of the 'social spiders' dataset are as follows:
 
-1. Dataset example:
+### Dataset example:
+![Dataset Video 1](media/data/test1.mp4)
+![Dataset Video 1](media/data/test2.mp4)
    
-2. Detection Output:
-   
-3. Tracking Output:
+### Final output demo:
 
+<video src="media/results/botsort/test2.mp4" controls width="600"></video>
+
+<video src="media/results/bytetrack/test1.mp4" controls width="600"></video>
